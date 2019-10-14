@@ -1,2 +1,2 @@
 puts "Hello_World"
-ruby Hello_World.#!/usr/bin/env ruby -wKU
+ruby Hello_World.rb
